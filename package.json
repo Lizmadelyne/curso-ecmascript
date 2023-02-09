@@ -11,5 +11,9 @@
     "ecmascript"
   ],
   "author": "Liz Madelyne Fajardo",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
